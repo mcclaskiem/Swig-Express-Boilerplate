@@ -18,5 +18,5 @@ Node.js/Express/Swig/Sass/
 
 ###Production:
 1. If using a cloud deployment service a port will be dynamically assigned by them via the `bin/www` start-up script.
-2. For Ubuntu installations use `npm start` for your staging environment to start the node server. (Be mindful of multiple instances of this boilerplate on the same server as the port will clash).
+2. For Ubuntu installations use `npm start` for your production environment to start the node server. (Be mindful of multiple instances of this boilerplate on the same server as the port will clash).
 
